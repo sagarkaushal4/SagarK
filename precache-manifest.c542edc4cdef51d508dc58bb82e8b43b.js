@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "34a685e43d33a6329fa4",
-    "url": "/SagarK/static/css/main.c4a729c8.chunk.css"
+    "revision": "109a9af9f8f401df2f1a",
+    "url": "/SagarK/static/css/main.6f7240d5.chunk.css"
   },
   {
-    "revision": "34a685e43d33a6329fa4",
-    "url": "/SagarK/static/js/main.34a685e4.chunk.js"
+    "revision": "109a9af9f8f401df2f1a",
+    "url": "/SagarK/static/js/main.109a9af9.chunk.js"
   },
   {
     "revision": "03ae7ea834bbe7645a20",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/SagarK/static/js/runtime~main.1a9b6809.js"
   },
   {
-    "revision": "55d35538399e8a39d571c9f170894ef4",
+    "revision": "6ef036a378cf9a2de1cf8ebbc30c64a4",
     "url": "/SagarK/index.html"
   }
 ];
